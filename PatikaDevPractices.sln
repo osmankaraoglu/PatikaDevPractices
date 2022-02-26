@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Vari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "Operators\Operators.csproj", "{60F4A546-0C98-4145-BC25-1CD7F168B847}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{928064A9-22BC-430C-B717-11F0D9F1EB16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversions", "TypeConversions\TypeConversions.csproj", "{928064A9-22BC-430C-B717-11F0D9F1EB16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{489031C6-E048-4768-A70A-A996C4DC7385}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{489031C6-E048-4768-A70A-A996C4DC7385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{44A575D3-2BAC-4542-8469-AF237C39C4C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{489031C6-E048-4768-A70A-A996C4DC7385}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{489031C6-E048-4768-A70A-A996C4DC7385}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{489031C6-E048-4768-A70A-A996C4DC7385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A575D3-2BAC-4542-8469-AF237C39C4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A575D3-2BAC-4542-8469-AF237C39C4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A575D3-2BAC-4542-8469-AF237C39C4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A575D3-2BAC-4542-8469-AF237C39C4C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
