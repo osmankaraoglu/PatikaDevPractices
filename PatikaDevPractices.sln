@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{9EF1F24A-85EE-4090-8C3A-DB15FA6B4D6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopBreakContinue", "ForLoopBreakContinue\ForLoopBreakContinue.csproj", "{6A3944BD-107A-42B1-950C-81325F9B4A9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9EF1F24A-85EE-4090-8C3A-DB15FA6B4D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EF1F24A-85EE-4090-8C3A-DB15FA6B4D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EF1F24A-85EE-4090-8C3A-DB15FA6B4D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3944BD-107A-42B1-950C-81325F9B4A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3944BD-107A-42B1-950C-81325F9B4A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3944BD-107A-42B1-950C-81325F9B4A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3944BD-107A-42B1-950C-81325F9B4A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
