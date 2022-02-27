@@ -23,11 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethods", "ArrayMethods\ArrayMethods.csproj", "{3382DE96-F660-4C6A-BEDD-78073A28BD1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{75165FCD-1615-4DFE-A728-7A08D493B167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{75165FCD-1615-4DFE-A728-7A08D493B167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{D71A1ED8-7275-48DB-86B1-0EBDCC281136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverloading", "MethodOverloading\MethodOverloading.csproj", "{D71A1ED8-7275-48DB-86B1-0EBDCC281136}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive-ExtensionMethods", "Recursive-ExtensionMethods\Recursive-ExtensionMethods.csproj", "{FF39D9DD-B1A6-4F91-BFB9-F65AD4452442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursive-ExtensionMethods", "Recursive-ExtensionMethods\Recursive-ExtensionMethods.csproj", "{FF39D9DD-B1A6-4F91-BFB9-F65AD4452442}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework1", "Homework1", "{7AA137DB-0FE5-45AE-918D-94726B96ADDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "question1", "question1\question1.csproj", "{287E7812-F973-4A6D-99CD-1C9429EDC97F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,9 +91,16 @@ Global
 		{FF39D9DD-B1A6-4F91-BFB9-F65AD4452442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF39D9DD-B1A6-4F91-BFB9-F65AD4452442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF39D9DD-B1A6-4F91-BFB9-F65AD4452442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287E7812-F973-4A6D-99CD-1C9429EDC97F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287E7812-F973-4A6D-99CD-1C9429EDC97F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287E7812-F973-4A6D-99CD-1C9429EDC97F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287E7812-F973-4A6D-99CD-1C9429EDC97F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{287E7812-F973-4A6D-99CD-1C9429EDC97F} = {7AA137DB-0FE5-45AE-918D-94726B96ADDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B7C672AE-1C57-4B41-A1C9-13C1CEB0BE7E}
